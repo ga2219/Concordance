@@ -1,2 +1,3 @@
-# Robot-Kinematics
-This work involves the design of a software to simulate the motion of a multi-degree of freedom kinematic chains that form the structure of a robotic system. The emphasis on geometry means that the links of the robot are modeled as rigid bodies and its joints are assumed to provide pure rotation or translation.
+# Concordance
+The objective of this assignment is to develop a program that processes a text file and produces a concordance: an alphabetical listing of the words in the file and the number of times each word appears (frequency).
+
