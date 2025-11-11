@@ -2,8 +2,7 @@
 // Description: Computer Engineering Case Study
 // A C++ Program to make the concordance of the words from the given text
 // Author: Gulsim Azirakhmet
-// Date Created: November 1, 2021
-// NYUAD Assignment 3
+// NYUAD
 ///////////////////////////////////////////////
 
 
